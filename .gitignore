@@ -1,0 +1,7 @@
+# Move / Sui
+build/
+Move.lock
+
+# OS / editor
+.DS_Store
+*.log
