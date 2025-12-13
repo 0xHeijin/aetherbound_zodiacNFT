@@ -1,0 +1,21 @@
+{
+  "name": "Aetherbound: Aries",
+  "description": "The fire-born sign of initiative, courage, and raw cosmic energy.",
+  "image": "ipfs://bafybeighgrnxzxyly3pubtg6dsnzqf4rcbflyodxm4cbbhqu44gewibaba",
+  "attributes": [
+    {
+      "trait_type": "Zodiac",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Genesis"
+    }
+  ]
+}
+
+

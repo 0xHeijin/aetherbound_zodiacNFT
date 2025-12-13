@@ -1,0 +1,8 @@
+[package]
+name = "aetherbound_zodiac"
+version = "0.0.1"
+authors = ["0xHeijin"]
+
+[addresses]
+aetherbound = "0x0"
+
